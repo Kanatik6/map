@@ -1,2 +1,2 @@
 # map
-Изучаю новую технологию, что поможет решить проблему обнаружения геолокации
+I am studying a new technology that will help solve the problem of geolocation detection
